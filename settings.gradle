@@ -1,0 +1,5 @@
+rootProject.name = "TestMavenDeploy"
+
+include ':myfirstmodule'
+include ':mysecondmodule'
+include ':sample'
